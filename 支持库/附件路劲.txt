@@ -2,3 +2,4 @@ DMALibrary.lib  C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\lib
 lua53-64.lib      C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\plugin\CheatEngine
 leechcore.lib     C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\DMALibrary\libs
 vmm.lib	        C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\DMALibrary\libs
+将编译好的plugin.dll 和vmm.dll  leechcore.dll FTD3XX.dll 一起放入CE的\plugins文件夹下

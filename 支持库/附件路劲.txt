@@ -1,0 +1,4 @@
+DMALibrary.lib  C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\lib
+lua53-64.lib      C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\plugin\CheatEngine
+leechcore.lib     C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\DMALibrary\libs
+vmm.lib	        C:\Users\Administrator\Desktop\CheatEngine-DMA-Master\DMALibrary\libs
